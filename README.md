@@ -1,6 +1,4 @@
-Nice, this will make your README feel complete 👌 — here’s the upgraded version with a clean **Installation Guide** added:
 
----
 
 # 🚀 Leadership Dashboard Project
 
