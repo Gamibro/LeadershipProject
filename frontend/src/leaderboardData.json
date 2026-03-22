@@ -1,0 +1,148 @@
+{
+  "leaderboard": [
+    {
+      "department": "DBU",
+      "allocations": 45,
+      "participants": 36,
+      "submissions": 2,
+      "totalMarksSubmitted": 133,
+      "completed": 2,
+      "totalMarksCompleted": 133,
+      "completedPointsAvg": 44.333333333333336,
+      "submissionRatio": 5.555555555555555,
+      "participationRatio": 80,
+      "leaderboardMarks": 43.711111111111116,
+      "leaderboardCm": 96.16444444444446,
+      "rank": 5,
+      "projects": [
+        { "projectNo": "WB-050", "project": "Ordering Stationery Quarterly" },
+        { "projectNo": "WB-051", "project": "Reducing Paper Usage in Drydock Quotations Process" }
+      ]
+    },
+    {
+      "department": "DFI",
+      "allocations": 6,
+      "participants": 3,
+      "submissions": 0,
+      "totalMarksSubmitted": 0,
+      "completed": 0,
+      "totalMarksCompleted": 0,
+      "completedPointsAvg": 0,
+      "submissionRatio": 0,
+      "participationRatio": 50,
+      "leaderboardMarks": 10,
+      "leaderboardCm": 22,
+      "rank": 7,
+      "projects": []
+    },
+    {
+      "department": "DHA",
+      "allocations": 52,
+      "participants": 23,
+      "submissions": 2,
+      "totalMarksSubmitted": 182,
+      "completed": 1,
+      "totalMarksCompleted": 107,
+      "completedPointsAvg": 71.33333333333333,
+      "submissionRatio": 8.695652173913043,
+      "participationRatio": 44.230769230769226,
+      "leaderboardMarks": 53.38528428093646,
+      "leaderboardCm": 117.44762541806023,
+      "rank": 2,
+      "projects": [
+        { "projectNo": "WB-053", "project": "Label System for identify the vehicle owners contact" },
+        { "projectNo": "WB-059", "project": "Reduce Water battle consumption" }
+      ]
+    },
+    {
+      "department": "DMD",
+      "allocations": 45,
+      "participants": 34,
+      "submissions": 2,
+      "totalMarksSubmitted": 110,
+      "completed": 1,
+      "totalMarksCompleted": 110,
+      "completedPointsAvg": 73.33333333333333,
+      "submissionRatio": 5.88235294117647,
+      "participationRatio": 75.55555555555556,
+      "leaderboardMarks": 60.28758169934641,
+      "leaderboardCm": 132.6326797385621,
+      "rank": 1,
+      "projects": [
+        { "projectNo": "WB-060", "project": "Long Range Wireless Fire Alarm Indicator Receiver" },
+        { "projectNo": "WB-052", "project": "Reusable Floor Protection Solution" }
+      ]
+    },
+    {
+      "department": "DMP",
+      "allocations": 22,
+      "participants": 20,
+      "submissions": 0,
+      "totalMarksSubmitted": 0,
+      "completed": 0,
+      "totalMarksCompleted": 0,
+      "completedPointsAvg": 0,
+      "submissionRatio": 0,
+      "participationRatio": 90.9090909090909,
+      "leaderboardMarks": 18.18181818181818,
+      "leaderboardCm": 40,
+      "rank": 6,
+      "projects": []
+    },
+    {
+      "department": "DPR",
+      "allocations": 371,
+      "participants": 230,
+      "submissions": 7,
+      "totalMarksSubmitted": 556,
+      "completed": 7,
+      "totalMarksCompleted": 556,
+      "completedPointsAvg": 52.952380952380956,
+      "submissionRatio": 3.0434782608695654,
+      "participationRatio": 61.99460916442049,
+      "leaderboardMarks": 44.779046056486585,
+      "leaderboardCm": 98.51390132427049,
+      "rank": 4,
+      "projects": [
+        { "projectNo": "WB-047", "project": "Develop a Vacuum Cleaner" },
+        { "projectNo": "WB-048", "project": "Develop a Divider" },
+        { "projectNo": "WB-049", "project": "Eliminated the need for additional third party crane rental by deploying an in-house 160 T capacity crane execute the assembly operations." },
+        { "projectNo": "WB-054", "project": "Create an excel file for standardize attendance of sub contracts" },
+        { "projectNo": "WB-055", "project": "Build vacuum testing boxes" },
+        { "projectNo": "WB-058", "project": "Bulb Holder for sandblasting" },
+        { "projectNo": "WB-056", "project": "Unit testing before the unit construction" }
+      ]
+    },
+    {
+      "department": "DYA",
+      "allocations": 101,
+      "participants": 63,
+      "submissions": 3,
+      "totalMarksSubmitted": 298,
+      "completed": 3,
+      "totalMarksCompleted": 298,
+      "completedPointsAvg": 66.22222222222221,
+      "submissionRatio": 4.761904761904762,
+      "participationRatio": 62.37623762376238,
+      "leaderboardMarks": 53.16096181046676,
+      "leaderboardCm": 116.95411598302688,
+      "rank": 3,
+      "projects": [
+        { "projectNo": "WB-057", "project": "Kerosene Bath" },
+        { "projectNo": "WB-061", "project": "Hydraulic Bench Press - 10 T" },
+        { "projectNo": "WB-062", "project": "Reduce gas user end hole from 7mm to 1 mm" }
+      ]
+    }
+  ],
+  "totals": {
+    "allocations": 642,
+    "participants": 409,
+    "submissions": 16,
+    "completed": 14
+  },
+  "metadata": {
+    "weightage": [60, 20, 20],
+    "leaderboardSpan": "220cm",
+    "resolution": "2.2cm"
+  }
+}
